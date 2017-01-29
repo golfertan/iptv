@@ -1,221 +1,117 @@
 ﻿#EXTM3U
 
 
-#EXTINF:-1,NEWS : ABC NEWS
-http://plextreamiptv.net:8080/live/MONTY100/100RESTREAMS/5617.m3u8
-#EXTINF:-1,NEWS : AL JAZEERA NEWS
-http://149.202.203.93:8888/live/brennan/brennan/2008.ts
 #EXTINF:-1,NEWS : BBC NEWS
-http://149.202.203.93:8888/live/brennan/brennan/239.ts
-#EXTINF:-1,UK | BBC News
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1119.ts
-#EXTINF:0,NEWS : BLOOMBERG Link 1
+http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/1119.ts
+#EXTINF:0,NEWS : BLOOMBERG ASIA
 http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
-#EXTINF:-1,NEWS : BLOOMBERG Link 2
-http://plextreamiptv.net:8080/live/MONTY100/100RESTREAMS/5526.m3u8
 #EXTINF:-1,NEWS : CBS NEWS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1,NEWS : CNN
-http://149.202.203.93:8888/live/brennan/brennan/827.ts
-#EXTINF:-1,UK | CNN
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1099.ts
+http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/1099.ts
 #EXTINF:-1,NEWS : FOX NEWS
-http://globiptv.com:8000/live/cardsharing/yg4tdh/2731.m3u8
-#EXTINF:-1,UK | FOX News
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1118.ts
-#EXTINF:-1,NEWS : RT NEWS Link 1
-http://plextreamiptv.net:8080/live/MONTY100/100RESTREAMS/11360.m3u8
-#EXTINF:-1,NEWS : RT NEWS Lnk 2
-http://149.202.203.93:8888/live/brennan/brennan/386.ts
-#EXTINF:-1,NEWS : RUSSIA TODAY
-http://149.202.203.93:8888/live/brennan/brennan/2286.ts
+http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/1118.ts
 #EXTINF:-1,NEWS : SKY NEWS
 http://195.154.154.185:5890/live/adam11/adam11/812.ts
 
 
-#EXTINF:-1,SPRT : ASSP 1 Link 1
-http://ssiptv.ydns.eu:11118/live/K307wqS6hg/MmXpbwIAS6/662.ts
-#EXTINF:-1,SPRT : ASSP 1 Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1769.ts
-#EXTINF:-1,SPRT : ASSP 2 Link 1
-http://ssiptv.ydns.eu:11118/live/K307wqS6hg/MmXpbwIAS6/663.ts
-#EXTINF:-1,SPRT : ASSP 2 Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1770.ts
-#EXTINF:-1,SPRT : ASSP 3 Link 1
-http://ssiptv.ydns.eu:11118/live/K307wqS6hg/MmXpbwIAS6/664.ts
-#EXTINF:-1,SPRT : ASSP 3 Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1768.ts
-#EXTINF:-1,SPRT : ASSP 4 Link 1
-http://ssiptv.ydns.eu:11118/live/K307wqS6hg/MmXpbwIAS6/665.ts
-#EXTINF:-1,SPRT : ASSP 4 Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1790.ts
 #EXTINF:0, SPRT : NBC GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,SPRT : GOLF CHANNEL
-http://ssiptv.ydns.eu:11118/live/K307wqS6hg/MmXpbwIAS6/661.ts
-#EXTINF:-1,SPRT : NBA TV Link 1
-http://ssiptv.ydns.eu:11118/live/K307wqS6hg/MmXpbwIAS6/672.ts
-#EXTINF:-1,SPRT : NBA TV Link 2
+#EXTINF:-1,SPRT : NBA TV
 http://195.154.154.185:5890/live/adam11/adam11/1848.ts
-#EXTINF:-1,SPRT : NBC SPORT
-http://ssiptv.ydns.eu:11118/live/K307wqS6hg/MmXpbwIAS6/671.ts
-#EXTINF:-1,SPRT : NFL NETWORK Link 1
-http://ssiptv.ydns.eu:11118/live/K307wqS6hg/MmXpbwIAS6/673.ts
-#EXTINF:-1,SPRT : NFL NETWORK Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1789.ts
-#EXTINF:-1,SPRT : SKY SPORTS NEWS Link 1
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1086.ts
+#EXTINF:-1,SPRT : SKY SPORTS NEWS Link1
+http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/1086.ts
 #EXTINF:-1,SPRT : SKY SPORTS NEWS Link 2
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1087.ts
-#EXTINF:-1,SPRT : SUPER TENNIS
-http://ultra-iptv.best-tv.us:13884/live/Bruno/Bruno/56.ts
+http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/1087.ts
 
 
-#EXTINF:-1,UK | PremierSport
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1074.ts
-#EXTINF:-1,UK | SetantaSport
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1075.ts
-#EXTINF:-1,UK | Setanta
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1076.ts
-#EXTINF:-1,UK | BTSportESPN Link 1
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1077.ts
-#EXTINF:-1,UK | BTSportESPN Link 2
+#EXTINF:-1,UK | BTSportESPN
 http://195.154.154.185:5890/live/adam11/adam11/1257.ts
 #EXTINF:-1,UK | BTSport1 Link 1
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1079.ts
-#EXTINF:-1,UK | BTSport1 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/279.ts
+#EXTINF:0,UK | BTSport1 Link 2
+http://149.202.196.143:8000/live/malika/malika/530.ts
 #EXTINF:-1,UK | BTSport2 Link 1
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1078.ts
-#EXTINF:-1,UK | BTSport2 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/280.ts
+#EXTINF:0,UK | BTSport2 Link 2
+http://149.202.196.143:8000/live/malika/malika/531.ts
 #EXTINF:-1,UK | BTSport3
 http://195.154.154.185:5890/live/adam11/adam11/3130.ts
-#EXTINF:-1,UK | BTSportEurope Link 1
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1085.ts
-#EXTINF:-1,UK | BTSportEurope Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1215.ts
+#EXTINF:0,UK | BTSports Europe
+http://149.202.196.143:8000/live/malika/malika/553.ts
 #EXTINF:-1,UK | SkySport1 UK Link 1
-http://sutverduz.com:8080/live/qctrb7ItNu/GfRZ9uH0bm/1093.ts
-#EXTINF:-1,UK | SkySport1 UK Link 2
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1093.ts
-#EXTINF:-1,UK | SkySport1 UK Link 3
 http://195.154.154.185:5890/live/adam11/adam11/273.ts
-#EXTINF:-1,UK | SkySport2 UK Link 1
-http://sutverduz.com:8080/live/qctrb7ItNu/GfRZ9uH0bm/1092.ts
-#EXTINF:-1,UK | SkySport2 UK Link 2
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1092.ts
-#EXTINF:-1,UK | SkySport2 UK LInk 3
+#EXTINF:0,UK | SkySport1 UK Link 2
+http://149.202.196.143:8000/live/malika/malika/525.ts
+#EXTINF:-1,UK | SkySport2 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/274.ts
-#EXTINF:-1,UK | SkySport3 UK Link 1
-http://sutverduz.com:8080/live/qctrb7ItNu/GfRZ9uH0bm/1091.ts
-#EXTINF:-1,UK | SkySport3 UK Link 2
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1091.ts
-#EXTINF:-1,UK | SkySport3 UK Link 3
+#EXTINF:0,UK | SkySport2 Link 2
+http://149.202.196.143:8000/live/malika/malika/526.ts
+#EXTINF:-1,UK | SkySport3 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/275.ts
-#EXTINF:-1,UK | SkySport4 UK Link 1
-http://sutverduz.com:8080/live/qctrb7ItNu/GfRZ9uH0bm/1090.ts
-#EXTINF:-1,UK | SkySport4 UK Link 2
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1090.ts
-#EXTINF:-1,UK | SkySport4 UK Link 3
+#EXTINF:0,UK | SkySport3 Link 2
+http://149.202.196.143:8000/live/malika/malika/527.ts
+#EXTINF:-1,UK | SkySport4 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/276.ts
-#EXTINF:-1,UK | SkySport5 UK Link 1
-http://sutverduz.com:8080/live/qctrb7ItNu/GfRZ9uH0bm/1089.ts
-#EXTINF:-1,UK | SkySport5 UK Link 2
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1089.ts
-#EXTINF:-1,UK | SkySport5 UK Link 3
+#EXTINF:0,UK | SkySport4 Link 2
+http://149.202.196.143:8000/live/malika/malika/528.ts
+#EXTINF:-1,UK | SkySport5 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/277.ts
-#EXTINF:-1,UK | SkySportF1 Link 1
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1073.ts
-#EXTINF:-1,UK | SkysportF1 Link 2
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1088.ts
-#EXTINF:-1,UK | SkySportF1 Link 3
+#EXTINF:0,UK | SkySport5 Link 2
+http://149.202.196.143:8000/live/malika/malika/529.ts
+#EXTINF:-1,UK | SkySportF1 UK
 http://195.154.154.185:5890/live/adam11/adam11/278.ts
-#EXTINF:-1,UK | EUROSPORT2
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1094.ts
-#EXTINF:-1,UK | EUROSPORT1
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/1095.ts
-#EXTINF:-1,ARENA SPORT 1 HR
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/3076.ts
-#EXTINF:-1,ARENA SPORT 2 HR
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/3077.ts
-#EXTINF:-1,ARENA SPORT 3 HR
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/3078.ts
-#EXTINF:-1,ARENA SPORT 4 HR
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/3079.ts
-#EXTINF:-1,AR|BEIN 1 HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/942.ts
-#EXTINF:-1,beIN SPORTS 1HD
+#EXTINF:-1,BEIN SPORTS 1 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/1.ts
-#EXTINF:-1,BEINSPORTS 1HD
+#EXTINF:-1,BEIN SPORTS 1 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1400.ts
-#EXTINF:-1,AR|BEIN 2 HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/941.ts
-#EXTINF:-1,beIN SPORTS 2HD
+#EXTINF:-1,BEIN SPORTS 2 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/3.ts
-#EXTINF:-1,BEINSPORTS 2HD
+#EXTINF:-1,BEIN SPORTS 2 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1401.ts
-#EXTINF:-1,AR|BEIN 3 HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/940.ts
-#EXTINF:-1,beIN SPORTS 3HD
+#EXTINF:-1,BEIN SPORTS 3 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/5.ts
-#EXTINF:-1,BEINSPORTS 3HD
+#EXTINF:-1,BEIN SPORTS 3 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1402.ts
-#EXTINF:-1,AR|BEIN 4 HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/939.ts
-#EXTINF:-1,beIN SPORTS 4HD
+#EXTINF:-1,BEIN SPORTS 4 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/7.ts
-#EXTINF:-1,BEINSPORTS 4HD
+#EXTINF:-1,BEIN SPORTS 4 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1403.ts
-#EXTINF:-1,AR|BEIN 5 HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/938.ts
-#EXTINF:-1,beIN SPORTS 5HD
+#EXTINF:-1,BEIN SPORTS 5 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/9.ts
-#EXTINF:-1,BEINSPORTS 5HD
+#EXTINF:-1,BEIN SPORTS 5 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1404.ts
-#EXTINF:-1,AR|BEIN 6 HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/937.ts
-#EXTINF:-1,beIN SPORTS 6HD
+#EXTINF:-1,BEIN SPORTS 6 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/11.ts
-#EXTINF:-1,BEINSPORTS 6HD
+#EXTINF:-1,BEIN SPORTS 6 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1405.ts
-#EXTINF:-1,AR|BEIN 7 HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/936.ts
-#EXTINF:-1,beIN SPORTS 7HD
+#EXTINF:-1,BEIN SPORTS 7 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/13.ts
-#EXTINF:-1,BEINSPORTS 7HD
+#EXTINF:-1,BEIN SPORTS 7 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1406.ts
-#EXTINF:-1,AR|BEIN 8 HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/935.ts
-#EXTINF:-1,beIN SPORTS 8HD
+#EXTINF:-1,BEIN SPORTS 8 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/15.ts
-#EXTINF:-1,BEINSPORTS 8HD
+#EXTINF:-1,BEIN SPORTS 8 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1407.ts
-#EXTINF:-1,AR|BEIN 9 HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/934.ts
-#EXTINF:-1,beIN SPORTS 9HD
+#EXTINF:-1,BEIN SPORTS 9 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/17.ts
-#EXTINF:-1,BEINSPORTS 9HD
+#EXTINF:-1,BEIN SPORTS 9 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1408.ts
-#EXTINF:-1,AR|BEIN 10 HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/933.ts
-#EXTINF:-1,beIN SPORTS 10HD
+#EXTINF:-1,BEIN SPORTS 10 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/19.ts
-#EXTINF:-1,BEINSPORTS 10HD
+#EXTINF:-1,BEIN SPORTS 10 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1409.ts
 #EXTINF:-1,STAR SPORTS 1HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/946.ts
+http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/946.ts
 #EXTINF:-1,STAR SPORTS 2HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/945.ts
+http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/945.ts
 #EXTINF:-1,STAR SPORTS 3HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/944.ts
+http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/944.ts
 #EXTINF:-1,STAR SPORTS 4HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/943.ts
-#EXTINF:-1,CANAL GOLF HD
-http://sutverduz.com:8080/live/1iDTahGenN/mOua1sOQbB/920.ts
-#EXTINF:-1,US|FOX SPORT 1 HD
+http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/943.ts
+#EXTINF:-1,US | FOX SPORT 1 HD
 http://195.154.154.185:5890/live/adam11/adam11/1767.ts
-#EXTINF:-1,US|FOX SPORT 2 HD
+#EXTINF:-1,US | FOX SPORT 2 HD
 http://195.154.154.185:5890/live/adam11/adam11/1766.ts
 #EXTINF:-1,MIO|Stadium
 http://195.154.154.185:5890/live/adam11/adam11/3363.ts
@@ -231,3 +127,24 @@ http://195.154.154.185:5890/live/adam11/adam11/3372.ts
 http://195.154.154.185:5890/live/adam11/adam11/3373.ts
 #EXTINF:-1,MIO|Stadium 107
 http://195.154.154.185:5890/live/adam11/adam11/3374.ts
+#EXTINF:0,UK:CTH_STADIUM_1
+http://149.202.196.143:8000/live/malika/malika/532.ts
+#EXTINF:0,UK:CTH_STADIUM_2
+http://149.202.196.143:8000/live/malika/malika/533.ts
+#EXTINF:0,UK:CTH_STADIUM_3
+http://149.202.196.143:8000/live/malika/malika/534.ts
+#EXTINF:0,UK:CTH_STADIUM_4
+http://149.202.196.143:8000/live/malika/malika/535.ts
+#EXTINF:0,UK:CTH_STADIUM_5
+http://149.202.196.143:8000/live/malika/malika/536.ts
+http://149.202.196.143:8000/live/malika/malika/842.ts
+#EXTINF:0,USA:TSN1
+http://149.202.196.143:8000/live/malika/malika/664.ts
+#EXTINF:0,USA:TSN2
+http://149.202.196.143:8000/live/malika/malika/663.ts
+#EXTINF:0,USA:TSN3
+http://149.202.196.143:8000/live/malika/malika/662.ts
+#EXTINF:0,USA:TSN4
+http://149.202.196.143:8000/live/malika/malika/661.ts
+#EXTINF:0,USA:TSN5
+http://149.202.196.143:8000/live/malika/malika/192.ts
