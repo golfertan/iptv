@@ -47,14 +47,6 @@ http://195.154.154.185:5890/live/adam11/adam11/3014.ts
 http://195.154.154.185:5890/live/adam11/adam11/812.ts
 
 
-#EXTINF:-1,SPRT : ASSP1
-http://mysserver.xyz:8000/live/ctalk2/ctalk2/3882.ts
-#EXTINF:-1,SPRT : ASSP2
-http://mysserver.xyz:8000/live/ctalk2/ctalk2/3883.ts
-#EXTINF:-1,SPRT : ASSP3
-http://mysserver.xyz:8000/live/ctalk2/ctalk2/3884.ts
-#EXTINF:-1,SPRT : ASSP4
-http://mysserver.xyz:8000/live/ctalk2/ctalk2/3885.ts
 #EXTINF:0, SPRT : NBC GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,SPRT : GOLF
@@ -77,16 +69,28 @@ http://195.154.154.185:5890/live/adam11/adam11/280.ts
 http://195.154.154.185:5890/live/adam11/adam11/3130.ts
 #EXTINF:-1,UK | SkySport1
 http://195.154.154.185:5890/live/adam11/adam11/273.ts
+#EXTINF:-1,UK | SkySport1 Link 2
+http://mysserver.xyz:8000/live/ctalk2/ctalk2/6243.ts
 #EXTINF:-1,UK | SkySport2
 http://195.154.154.185:5890/live/adam11/adam11/274.ts
+#EXTINF:-1,UK | SkySport2 Link 2
+http://mysserver.xyz:8000/live/ctalk2/ctalk2/6244.ts
 #EXTINF:-1,UK | SkySport3
 http://195.154.154.185:5890/live/adam11/adam11/275.ts
+#EXTINF:-1,UK | SkySport3 Link 2
+http://mysserver.xyz:8000/live/ctalk2/ctalk2/6245.ts
 #EXTINF:-1,UK | SkySport4
 http://195.154.154.185:5890/live/adam11/adam11/276.ts
+#EXTINF:-1,UK | SkySport4 Link 2
+http://mysserver.xyz:8000/live/ctalk2/ctalk2/6246.ts
 #EXTINF:-1,UK | SkySport5
 http://195.154.154.185:5890/live/adam11/adam11/277.ts
-#EXTINF:-1,UK | SkySportF1 UK
+#EXTINF:-1,UK | SkySport5 Link 2
+http://mysserver.xyz:8000/live/ctalk2/ctalk2/6247.ts
+#EXTINF:-1,UK | SkySportF1
 http://195.154.154.185:5890/live/adam11/adam11/278.ts
+#EXTINF:-1,UK | SkySportF1 Link 2
+http://mysserver.xyz:8000/live/ctalk2/ctalk2/6248.ts
 #EXTINF:-1,BEIN SPORTS 1 Link 1
 http://195.154.154.185:5890/live/adam11/adam11/1.ts
 #EXTINF:-1,BEIN SPORTS 1 Link 2
