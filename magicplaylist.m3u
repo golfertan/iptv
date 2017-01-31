@@ -47,8 +47,6 @@ http://195.154.154.185:5890/live/adam11/adam11/3014.ts
 http://195.154.154.185:5890/live/adam11/adam11/812.ts
 
 
-#EXTINF:-1,SPRT : BEIN SPORTS NEWS
-http://195.154.154.185:5890/live/adam11/adam11/1042.ts
 #EXTINF:0, SPRT : NBC GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,SPRT : GOLF
@@ -65,38 +63,22 @@ http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/1087.ts
 
 #EXTINF:-1,UK | BTSportESPN
 http://195.154.154.185:5890/live/adam11/adam11/1257.ts
-#EXTINF:-1,UK | BTSport1 Link 1
+#EXTINF:-1,UK | BTSport1
 http://195.154.154.185:5890/live/adam11/adam11/279.ts
-#EXTINF:0,UK | BTSport1 Link 2
-http://149.202.196.143:8000/live/malika/malika/530.ts
-#EXTINF:-1,UK | BTSport2 Link 1
+#EXTINF:-1,UK | BTSport2
 http://195.154.154.185:5890/live/adam11/adam11/280.ts
-#EXTINF:0,UK | BTSport2 Link 2
-http://149.202.196.143:8000/live/malika/malika/531.ts
 #EXTINF:-1,UK | BTSport3
 http://195.154.154.185:5890/live/adam11/adam11/3130.ts
-#EXTINF:0,UK | BTSports Europe
-http://149.202.196.143:8000/live/malika/malika/553.ts
-#EXTINF:-1,UK | SkySport1 UK Link 1
+#EXTINF:-1,UK | SkySport1
 http://195.154.154.185:5890/live/adam11/adam11/273.ts
-#EXTINF:0,UK | SkySport1 UK Link 2
-http://149.202.196.143:8000/live/malika/malika/525.ts
-#EXTINF:-1,UK | SkySport2 Link 1
+#EXTINF:-1,UK | SkySport2
 http://195.154.154.185:5890/live/adam11/adam11/274.ts
-#EXTINF:0,UK | SkySport2 Link 2
-http://149.202.196.143:8000/live/malika/malika/526.ts
-#EXTINF:-1,UK | SkySport3 Link 1
+#EXTINF:-1,UK | SkySport3
 http://195.154.154.185:5890/live/adam11/adam11/275.ts
-#EXTINF:0,UK | SkySport3 Link 2
-http://149.202.196.143:8000/live/malika/malika/527.ts
-#EXTINF:-1,UK | SkySport4 Link 1
+#EXTINF:-1,UK | SkySport4
 http://195.154.154.185:5890/live/adam11/adam11/276.ts
-#EXTINF:0,UK | SkySport4 Link 2
-http://149.202.196.143:8000/live/malika/malika/528.ts
-#EXTINF:-1,UK | SkySport5 Link 1
+#EXTINF:-1,UK | SkySport5
 http://195.154.154.185:5890/live/adam11/adam11/277.ts
-#EXTINF:0,UK | SkySport5 Link 2
-http://149.202.196.143:8000/live/malika/malika/529.ts
 #EXTINF:-1,UK | SkySportF1 UK
 http://195.154.154.185:5890/live/adam11/adam11/278.ts
 #EXTINF:-1,BEIN SPORTS 1 Link 1
@@ -139,14 +121,14 @@ http://195.154.154.185:5890/live/adam11/adam11/1408.ts
 http://195.154.154.185:5890/live/adam11/adam11/19.ts
 #EXTINF:-1,BEIN SPORTS 10 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1409.ts
-#EXTINF:-1,STAR SPORTS 1HD
-http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/946.ts
-#EXTINF:-1,STAR SPORTS 2HD
-http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/945.ts
-#EXTINF:-1,STAR SPORTS 3HD
-http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/944.ts
-#EXTINF:-1,STAR SPORTS 4HD
-http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/943.ts
+#EXTINF:-1,IND|Star Sport 1
+http://195.154.154.185:5890/live/adam11/adam11/1503.ts
+#EXTINF:-1,IND|Star Sport 2
+http://195.154.154.185:5890/live/adam11/adam11/1504.ts
+#EXTINF:-1,IND|Star Sport 3
+http://195.154.154.185:5890/live/adam11/adam11/1505.ts
+#EXTINF:-1,IND|Star Sport 4
+http://195.154.154.185:5890/live/adam11/adam11/1506.ts
 #EXTINF:-1,US | FOX SPORT 1 HD
 http://195.154.154.185:5890/live/adam11/adam11/1767.ts
 #EXTINF:-1,US | FOX SPORT 2 HD
@@ -165,23 +147,3 @@ http://195.154.154.185:5890/live/adam11/adam11/3372.ts
 http://195.154.154.185:5890/live/adam11/adam11/3373.ts
 #EXTINF:-1,MIO|Stadium 107
 http://195.154.154.185:5890/live/adam11/adam11/3374.ts
-#EXTINF:0,UK:CTH_STADIUM_1
-http://149.202.196.143:8000/live/malika/malika/532.ts
-#EXTINF:0,UK:CTH_STADIUM_2
-http://149.202.196.143:8000/live/malika/malika/533.ts
-#EXTINF:0,UK:CTH_STADIUM_3
-http://149.202.196.143:8000/live/malika/malika/534.ts
-#EXTINF:0,UK:CTH_STADIUM_4
-http://149.202.196.143:8000/live/malika/malika/535.ts
-#EXTINF:0,UK:CTH_STADIUM_5
-http://149.202.196.143:8000/live/malika/malika/536.ts
-#EXTINF:0,USA:TSN1
-http://149.202.196.143:8000/live/malika/malika/664.ts
-#EXTINF:0,USA:TSN2
-http://149.202.196.143:8000/live/malika/malika/663.ts
-#EXTINF:0,USA:TSN3
-http://149.202.196.143:8000/live/malika/malika/662.ts
-#EXTINF:0,USA:TSN4
-http://149.202.196.143:8000/live/malika/malika/661.ts
-#EXTINF:0,USA:TSN5
-http://149.202.196.143:8000/live/malika/malika/192.ts
