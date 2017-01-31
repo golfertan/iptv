@@ -47,6 +47,14 @@ http://195.154.154.185:5890/live/adam11/adam11/3014.ts
 http://195.154.154.185:5890/live/adam11/adam11/812.ts
 
 
+#EXTINF:-1,SPRT : ASSP1
+http://mysserver.xyz:8000/live/ctalk2/ctalk2/3882.ts
+#EXTINF:-1,SPRT : ASSP2
+http://mysserver.xyz:8000/live/ctalk2/ctalk2/3883.ts
+#EXTINF:-1,SPRT : ASSP3
+http://mysserver.xyz:8000/live/ctalk2/ctalk2/3884.ts
+#EXTINF:-1,SPRT : ASSP4
+http://mysserver.xyz:8000/live/ctalk2/ctalk2/3885.ts
 #EXTINF:0, SPRT : NBC GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,SPRT : GOLF
@@ -55,10 +63,8 @@ http://195.154.154.185:5890/live/adam11/adam11/1939.ts
 http://195.154.154.185:5890/live/adam11/adam11/2028.ts
 #EXTINF:-1,SPRT : NBA TV
 http://195.154.154.185:5890/live/adam11/adam11/1848.ts
-#EXTINF:-1,SPRT : SKY SPORTS NEWS Link1
-http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/1086.ts
-#EXTINF:-1,SPRT : SKY SPORTS NEWS Link 2
-http://sutverduz.com:8080/live/Ltv03iHRul/WK1dnga7Pp/1087.ts
+#EXTINF:-1,SPRT : SKY SPORTS NEWS
+http://mysserver.xyz:8000/live/ctalk2/ctalk2/6249.ts
 
 
 #EXTINF:-1,UK | BTSportESPN
