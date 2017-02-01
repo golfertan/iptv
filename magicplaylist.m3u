@@ -45,12 +45,14 @@ http://195.154.154.185:5890/live/adam11/adam11/3014.ts
 http://topiptv.net:5890/live/dream05/info50/812.ts
 
 
-#EXTINF:-1,SPRT : ASTRO SPORT 1http://topiptv.net:5890/live/dream05/info50/1790.ts
-#EXTINF:-1,SPRT : ASTRO SPORT 2
-http://195.154.154.185:5890/live/dream05/info50/1770.ts
-#EXTINF:-1,SPRT : ASTRO SPORT 3
+#EXTINF:-1,SPRT : ASSP1
+http://195.154.154.185:5890/live/dream05/info50/1790.ts
+#EXTINF:-1,SPRT : ASSP2
+http://topiptv.net:5890/live/dream05/info50/1770.ts
+#EXTINF:-1,SPRT : ASSP3
 http://topiptv.net:5890/live/dream05/info50/1768.ts
-#EXTINF:-1,SPRT : ASTRO SPORT 4http://topiptv.net:5890/live/dream05/info50/1769.ts
+#EXTINF:-1,SPRT : ASSP4
+http://topiptv.net:5890/live/dream05/info50/1769.ts
 #EXTINF:0, SPRT : NBC GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,SPRT : GOLF CHANNEL
