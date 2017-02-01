@@ -32,21 +32,21 @@ http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
 #EXTINF:-1,NEWS : CBS NEWS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1,NEWS : CNN
-http://195.154.154.185:5890/live/adam11/adam11/3641.ts
+http://sutverduz.com:8080/live/TJxoizHP15/RbkDB1snmE/1099.ts
 #EXTINF:-1,NEWS : FOX NEWS
-http://195.154.154.185:5890/live/adam11/adam11/3002.ts
+http://sutverduz.com:8080/live/TJxoizHP15/RbkDB1snmE/1118.ts
 #EXTINF:-1,NEWS : RTE 1
 http://topiptv.net:5890/live/dream05/info50/922.ts
 #EXTINF:-1,NEWS : RTE 2
 http://topiptv.net:5890/live/dream05/info50/923.ts
 #EXTINF:-1,NEWS : RT NEWS
-http://195.154.154.185:5890/live/adam11/adam11/3014.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/2320.ts
 #EXTINF:-1,NEWS : SKY NEWS
 http://topiptv.net:5890/live/dream05/info50/812.ts
 
 
 #EXTINF:-1,SPRT : ASSP1
-http://195.154.154.185:5890/live/dream05/info50/1790.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1739.ts
 #EXTINF:-1,SPRT : ASSP2
 http://topiptv.net:5890/live/dream05/info50/1770.ts
 #EXTINF:-1,SPRT : ASSP3
@@ -60,9 +60,11 @@ http://195.154.154.185:5890/live/dream05/info50/3272.ts
 #EXTINF:-1,SPRT : NBA TV
 http://195.154.154.185:5890/live/dream05/info50/1848.ts
 #EXTINF:-1,SPRT : NBC SPORT
-http://ssiptv.ydns.eu:11118/live/K307wqS6hg/MmXpbwIAS6/671.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/2515.ts
 #EXTINF:-1,SPRT : SKY SPORTS NEWS
 http://mysserver.xyz:8000/live/ctalk2/ctalk2/6249.ts
+#EXTINF:-1,SPRT : SKY SPORTS NEWS Link 2
+http://sutverduz.com:8080/live/TJxoizHP15/RbkDB1snmE/1087.ts
 
 
 #EXTINF:-1,UK | BTSportESPN
@@ -100,43 +102,43 @@ http://mysserver.xyz:8000/live/ctalk2/ctalk2/6248.ts
 #EXTINF:-1,BEIN SPORTS 1
 http://topiptv.net:5890/live/dream05/info50/1.ts
 #EXTINF:-1,BEIN SPORTS 1 Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1400.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1177.ts
 #EXTINF:-1,BEIN SPORTS 2
 http://topiptv.net:5890/live/dream05/info50/3.ts
 #EXTINF:-1,BEIN SPORTS 2 Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1401.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1178.ts
 #EXTINF:-1,BEIN SPORTS 3
 http://topiptv.net:5890/live/dream05/info50/5.ts
 #EXTINF:-1,BEIN SPORTS 3 Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1402.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1179.ts
 #EXTINF:-1,BEIN SPORTS 4
 http://topiptv.net:5890/live/dream05/info50/7.ts
 #EXTINF:-1,BEIN SPORTS 4 Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1403.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1180.ts
 #EXTINF:-1,BEIN SPORTS 5
 http://topiptv.net:5890/live/dream05/info50/9.ts
 #EXTINF:-1,BEIN SPORTS 5 Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1404.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1181.ts
 #EXTINF:-1,BEIN SPORTS 6
 http://topiptv.net:5890/live/dream05/info50/11.ts
 #EXTINF:-1,BEIN SPORTS 6 Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1405.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1182.ts
 #EXTINF:-1,BEIN SPORTS 7
 http://topiptv.net:5890/live/dream05/info50/13.ts
 #EXTINF:-1,BEIN SPORTS 7 Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1406.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1183.ts
 #EXTINF:-1,BEIN SPORTS 8
 http://topiptv.net:5890/live/dream05/info50/15.ts
 #EXTINF:-1,BEIN SPORTS 8 Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1407.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1184.ts
 #EXTINF:-1,BEIN SPORTS 9
 http://topiptv.net:5890/live/dream05/info50/17.ts
 #EXTINF:-1,BEIN SPORTS 9 Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1408.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1185.ts
 #EXTINF:-1,BEIN SPORTS 10
 http://topiptv.net:5890/live/dream05/info50/19.ts
 #EXTINF:-1,BEIN SPORTS 10 Link 2
-http://195.154.154.185:5890/live/adam11/adam11/1409.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1186.ts
 #EXTINF:-1,IND | Star Sport 1
 http://topiptv.net:5890/live/dream05/info50/1503.ts
 #EXTINF:-1,IND | Star Sport 2
@@ -146,9 +148,9 @@ http://topiptv.net:5890/live/dream05/info50/1505.ts
 #EXTINF:-1,IND | Star Sport 4
 http://topiptv.net:5890/live/dream05/info50/1506.ts
 #EXTINF:-1,US | FOX SPORT 1 HD
-http://195.154.154.185:5890/live/dream05/info50/1767.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/2359.ts
 #EXTINF:-1,US | FOX SPORT 2 HD
-http://195.154.154.185:5890/live/dream05/info50/1766.ts
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/2360.ts
 #EXTINF:-1,MIO|Stadium
 http://topiptv.net:5890/live/dream05/info50/3363.ts
 #EXTINF:-1,MIO|Stadium 102
@@ -163,3 +165,17 @@ http://topiptv.net:5890/live/dream05/info50/3372.ts
 http://topiptv.net:5890/live/dream05/info50/3373.ts
 #EXTINF:-1,MIO|Stadium 107
 http://topiptv.net:5890/live/dream05/info50/3374.ts
+#EXTINF:-1,NBC E.P.L XTRA 1 (LIVE DURING EPL)
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/2364.ts
+#EXTINF:-1,NBC E.P.L XTRA 2 (LIVE DURING EPL)
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/2365.ts
+#EXTINF:-1,NBC E.P.L XTRA 3 (LIVE DURING EPL)
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/2366.ts
+#EXTINF:-1,NBC E.P.L XTRA 4 (LIVE DURING EPL)
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/2367.ts
+#EXTINF:-1,NBC E.P.L XTRA 5 (LIVE DURING EPL)
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/2368.ts
+#EXTINF:-1,NBC E.P.L XTRA 6 (LIVE DURING EPL)
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/2369.ts
+#EXTINF:-1,NBC E.P.L XTRA 7 (LIVE DURING EPL)
+http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/2370.ts
