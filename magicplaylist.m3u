@@ -2,35 +2,33 @@
 
 
 #EXTINF:-1,DOC : ANIMAL PLANET
-http://195.154.154.185:5890/live/adam11/adam11/288.ts
+http://topiptv.net:5890/live/dream05/info50/288.ts
 #EXTINF:-1,DOC : DISCOVERY
-http://195.154.154.185:5890/live/adam11/adam11/289.ts
+http://topiptv.net:5890/live/dream05/info50/289.ts
 #EXTINF:-1,DOC : DISCOVERY CI
-http://195.154.154.185:5890/live/adam11/adam11/290.ts
+http://topiptv.net:5890/live/dream05/info50/290.ts
 #EXTINF:-1,DOC : DISCOVERY HISTORY
-http://195.154.154.185:5890/live/adam11/adam11/292.ts
+http://topiptv.net:5890/live/dream05/info50/292.ts
 #EXTINF:-1,DOC : DISCOVERY SCIENCE
-http://195.154.154.185:5890/live/adam11/adam11/291.ts
+http://topiptv.net:5890/live/dream05/info50/291.ts
 #EXTINF:-1,DOC : DISCOVERY TURBO
-http://195.154.154.185:5890/live/adam11/adam11/1106.ts
+http://topiptv.net:5890/live/dream05/info50/1106.ts
 #EXTINF:-1,DOC : DISCOVERY WORLD
-http://195.154.154.185:5890/live/adam11/adam11/1260.ts
+http://topiptv.net:5890/live/dream05/info50/1260.ts
 #EXTINF:-1,DOC : NAT GEO
-http://195.154.154.185:5890/live/adam11/adam11/286.ts
+http://topiptv.net:5890/live/dream05/info50/286.ts
 #EXTINF:-1,DOC : NAT GEO WILD
-http://195.154.154.185:5890/live/adam11/adam11/807.ts
+http://topiptv.net:5890/live/dream05/info50/807.ts
 
 
-#EXTINF:-1,NEWS :AL JAZEERA
-http://195.154.154.185:5890/live/adam11/adam11/3003.ts
+#EXTINF:-1,NEWS : ABC NEWS
+http://topiptv.net:5890/live/dream05/info50/1760.ts
+#EXTINF:-1,NEWS : AL JAZEERA
+http://195.154.154.185:5890/live/dream05/info50/3273.ts
 #EXTINF:-1,NEWS : BBC NEWS
-http://195.154.154.185:5890/live/adam11/adam11/301.ts
-#EXTINF:-1,NEWS : BBC WORLD NEWS
-http://195.154.154.185:5890/live/adam11/adam11/3527.ts
+http://topiptv.net:5890/live/dream05/info50/301.ts
 #EXTINF:0,NEWS : BLOOMBERG ASIA
 http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
-#EXTINF:-1,NEWS : BLOOMBERG TV
-http://195.154.154.185:5890/live/adam11/adam11/2967.ts
 #EXTINF:-1,NEWS : CBS NEWS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1,NEWS : CNN
@@ -38,122 +36,128 @@ http://195.154.154.185:5890/live/adam11/adam11/3641.ts
 #EXTINF:-1,NEWS : FOX NEWS
 http://195.154.154.185:5890/live/adam11/adam11/3002.ts
 #EXTINF:-1,NEWS : RTE 1
-http://195.154.154.185:5890/live/adam11/adam11/922.ts
+http://topiptv.net:5890/live/dream05/info50/922.ts
 #EXTINF:-1,NEWS : RTE 2
-http://195.154.154.185:5890/live/adam11/adam11/923.ts
+http://topiptv.net:5890/live/dream05/info50/923.ts
 #EXTINF:-1,NEWS : RT NEWS
 http://195.154.154.185:5890/live/adam11/adam11/3014.ts
 #EXTINF:-1,NEWS : SKY NEWS
-http://195.154.154.185:5890/live/adam11/adam11/812.ts
+http://topiptv.net:5890/live/dream05/info50/812.ts
 
 
+#EXTINF:-1,SPRT : ASTRO SPORT 1http://topiptv.net:5890/live/dream05/info50/1790.ts
+#EXTINF:-1,SPRT : ASTRO SPORT 2
+http://195.154.154.185:5890/live/dream05/info50/1770.ts
+#EXTINF:-1,SPRT : ASTRO SPORT 3
+http://topiptv.net:5890/live/dream05/info50/1768.ts
+#EXTINF:-1,SPRT : ASTRO SPORT 4http://topiptv.net:5890/live/dream05/info50/1769.ts
 #EXTINF:0, SPRT : NBC GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,SPRT : GOLF
-http://195.154.154.185:5890/live/adam11/adam11/1939.ts
-#EXTINF:-1,SPRT : GOLF +
-http://195.154.154.185:5890/live/adam11/adam11/2028.ts
+#EXTINF:-1,SPRT : GOLF CHANNEL
+http://195.154.154.185:5890/live/dream05/info50/3272.ts
 #EXTINF:-1,SPRT : NBA TV
-http://195.154.154.185:5890/live/adam11/adam11/1848.ts
+http://195.154.154.185:5890/live/dream05/info50/1848.ts
+#EXTINF:-1,SPRT : NBC SPORT
+http://ssiptv.ydns.eu:11118/live/K307wqS6hg/MmXpbwIAS6/671.ts
 #EXTINF:-1,SPRT : SKY SPORTS NEWS
 http://mysserver.xyz:8000/live/ctalk2/ctalk2/6249.ts
 
 
 #EXTINF:-1,UK | BTSportESPN
-http://195.154.154.185:5890/live/adam11/adam11/1257.ts
+http://topiptv.net:5890/live/dream05/info50/1257.ts
 #EXTINF:-1,UK | BTSport1
-http://195.154.154.185:5890/live/adam11/adam11/279.ts
+http://topiptv.net:5890/live/dream05/info50/279.ts
 #EXTINF:-1,UK | BTSport2
-http://195.154.154.185:5890/live/adam11/adam11/280.ts
+http://topiptv.net:5890/live/dream05/info50/280.ts
 #EXTINF:-1,UK | BTSport3
-http://195.154.154.185:5890/live/adam11/adam11/3130.ts
+http://topiptv.net:5890/live/dream05/info50/3130.ts
 #EXTINF:-1,UK | SkySport1
-http://195.154.154.185:5890/live/adam11/adam11/273.ts
+http://topiptv.net:5890/live/dream05/info50/273.ts
 #EXTINF:-1,UK | SkySport1 Link 2
 http://mysserver.xyz:8000/live/ctalk2/ctalk2/6243.ts
 #EXTINF:-1,UK | SkySport2
-http://195.154.154.185:5890/live/adam11/adam11/274.ts
+http://topiptv.net:5890/live/dream05/info50/274.ts
 #EXTINF:-1,UK | SkySport2 Link 2
 http://mysserver.xyz:8000/live/ctalk2/ctalk2/6244.ts
 #EXTINF:-1,UK | SkySport3
-http://195.154.154.185:5890/live/adam11/adam11/275.ts
+http://topiptv.net:5890/live/dream05/info50/275.ts
 #EXTINF:-1,UK | SkySport3 Link 2
 http://mysserver.xyz:8000/live/ctalk2/ctalk2/6245.ts
 #EXTINF:-1,UK | SkySport4
-http://195.154.154.185:5890/live/adam11/adam11/276.ts
+http://topiptv.net:5890/live/dream05/info50/276.ts
 #EXTINF:-1,UK | SkySport4 Link 2
 http://mysserver.xyz:8000/live/ctalk2/ctalk2/6246.ts
 #EXTINF:-1,UK | SkySport5
-http://195.154.154.185:5890/live/adam11/adam11/277.ts
+http://topiptv.net:5890/live/dream05/info50/277.ts
 #EXTINF:-1,UK | SkySport5 Link 2
 http://mysserver.xyz:8000/live/ctalk2/ctalk2/6247.ts
 #EXTINF:-1,UK | SkySportF1
-http://195.154.154.185:5890/live/adam11/adam11/278.ts
+http://topiptv.net:5890/live/dream05/info50/278.ts
 #EXTINF:-1,UK | SkySportF1 Link 2
 http://mysserver.xyz:8000/live/ctalk2/ctalk2/6248.ts
-#EXTINF:-1,BEIN SPORTS 1 Link 1
-http://195.154.154.185:5890/live/adam11/adam11/1.ts
+#EXTINF:-1,BEIN SPORTS 1
+http://topiptv.net:5890/live/dream05/info50/1.ts
 #EXTINF:-1,BEIN SPORTS 1 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1400.ts
-#EXTINF:-1,BEIN SPORTS 2 Link 1
-http://195.154.154.185:5890/live/adam11/adam11/3.ts
+#EXTINF:-1,BEIN SPORTS 2
+http://topiptv.net:5890/live/dream05/info50/3.ts
 #EXTINF:-1,BEIN SPORTS 2 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1401.ts
-#EXTINF:-1,BEIN SPORTS 3 Link 1
-http://195.154.154.185:5890/live/adam11/adam11/5.ts
+#EXTINF:-1,BEIN SPORTS 3
+http://topiptv.net:5890/live/dream05/info50/5.ts
 #EXTINF:-1,BEIN SPORTS 3 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1402.ts
-#EXTINF:-1,BEIN SPORTS 4 Link 1
-http://195.154.154.185:5890/live/adam11/adam11/7.ts
+#EXTINF:-1,BEIN SPORTS 4
+http://topiptv.net:5890/live/dream05/info50/7.ts
 #EXTINF:-1,BEIN SPORTS 4 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1403.ts
-#EXTINF:-1,BEIN SPORTS 5 Link 1
-http://195.154.154.185:5890/live/adam11/adam11/9.ts
+#EXTINF:-1,BEIN SPORTS 5
+http://topiptv.net:5890/live/dream05/info50/9.ts
 #EXTINF:-1,BEIN SPORTS 5 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1404.ts
-#EXTINF:-1,BEIN SPORTS 6 Link 1
-http://195.154.154.185:5890/live/adam11/adam11/11.ts
+#EXTINF:-1,BEIN SPORTS 6
+http://topiptv.net:5890/live/dream05/info50/11.ts
 #EXTINF:-1,BEIN SPORTS 6 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1405.ts
-#EXTINF:-1,BEIN SPORTS 7 Link 1
-http://195.154.154.185:5890/live/adam11/adam11/13.ts
+#EXTINF:-1,BEIN SPORTS 7
+http://topiptv.net:5890/live/dream05/info50/13.ts
 #EXTINF:-1,BEIN SPORTS 7 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1406.ts
-#EXTINF:-1,BEIN SPORTS 8 Link 1
-http://195.154.154.185:5890/live/adam11/adam11/15.ts
+#EXTINF:-1,BEIN SPORTS 8
+http://topiptv.net:5890/live/dream05/info50/15.ts
 #EXTINF:-1,BEIN SPORTS 8 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1407.ts
-#EXTINF:-1,BEIN SPORTS 9 Link 1
-http://195.154.154.185:5890/live/adam11/adam11/17.ts
+#EXTINF:-1,BEIN SPORTS 9
+http://topiptv.net:5890/live/dream05/info50/17.ts
 #EXTINF:-1,BEIN SPORTS 9 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1408.ts
-#EXTINF:-1,BEIN SPORTS 10 Link 1
-http://195.154.154.185:5890/live/adam11/adam11/19.ts
+#EXTINF:-1,BEIN SPORTS 10
+http://topiptv.net:5890/live/dream05/info50/19.ts
 #EXTINF:-1,BEIN SPORTS 10 Link 2
 http://195.154.154.185:5890/live/adam11/adam11/1409.ts
-#EXTINF:-1,IND|Star Sport 1
-http://195.154.154.185:5890/live/adam11/adam11/1503.ts
-#EXTINF:-1,IND|Star Sport 2
-http://195.154.154.185:5890/live/adam11/adam11/1504.ts
-#EXTINF:-1,IND|Star Sport 3
-http://195.154.154.185:5890/live/adam11/adam11/1505.ts
-#EXTINF:-1,IND|Star Sport 4
-http://195.154.154.185:5890/live/adam11/adam11/1506.ts
+#EXTINF:-1,IND | Star Sport 1
+http://topiptv.net:5890/live/dream05/info50/1503.ts
+#EXTINF:-1,IND | Star Sport 2
+http://topiptv.net:5890/live/dream05/info50/1504.ts
+#EXTINF:-1,IND | Star Sport 3
+http://topiptv.net:5890/live/dream05/info50/1505.ts
+#EXTINF:-1,IND | Star Sport 4
+http://topiptv.net:5890/live/dream05/info50/1506.ts
 #EXTINF:-1,US | FOX SPORT 1 HD
-http://195.154.154.185:5890/live/adam11/adam11/1767.ts
+http://195.154.154.185:5890/live/dream05/info50/1767.ts
 #EXTINF:-1,US | FOX SPORT 2 HD
-http://195.154.154.185:5890/live/adam11/adam11/1766.ts
-#EXTINF:-1,MIO|Stadium 101
-http://195.154.154.185:5890/live/adam11/adam11/3363.ts
+http://195.154.154.185:5890/live/dream05/info50/1766.ts
+#EXTINF:-1,MIO|Stadium
+http://topiptv.net:5890/live/dream05/info50/3363.ts
 #EXTINF:-1,MIO|Stadium 102
-http://195.154.154.185:5890/live/adam11/adam11/3369.ts
+http://topiptv.net:5890/live/dream05/info50/3369.ts
 #EXTINF:-1,MIO|Stadium 103
-http://195.154.154.185:5890/live/adam11/adam11/3370.ts
+http://topiptv.net:5890/live/dream05/info50/3370.ts
 #EXTINF:-1,MIO|Stadium 104
-http://195.154.154.185:5890/live/adam11/adam11/3371.ts
+http://topiptv.net:5890/live/dream05/info50/3371.ts
 #EXTINF:-1,MIO|Stadium 105
-http://195.154.154.185:5890/live/adam11/adam11/3372.ts
+http://topiptv.net:5890/live/dream05/info50/3372.ts
 #EXTINF:-1,MIO|Stadium 106
-http://195.154.154.185:5890/live/adam11/adam11/3373.ts
+http://topiptv.net:5890/live/dream05/info50/3373.ts
 #EXTINF:-1,MIO|Stadium 107
-http://195.154.154.185:5890/live/adam11/adam11/3374.ts
+http://topiptv.net:5890/live/dream05/info50/3374.ts
