@@ -149,34 +149,22 @@ http://pro213.com/live/Zaid/Zaid1/4494.m3u8
 http://pro213.com/live/Zaid/Zaid1/4479.m3u8
 #EXTINF:-1,BEIN SPORTS 10 Link 2
 http://pro213.com/live/Zaid/Zaid1/4495.m3u8
-#EXTINF:-1,STAR SPORTS 1 HD
-http://ok2.se:8000/live/butch/butch/199.m3u8
-#EXTINF:-1,STAR SPORTS 2 HD
-http://ok2.se:8000/live/butch/butch/200.m3u8
-#EXTINF:-1,STAR SPORTS 3 HD
-http://ok2.se:8000/live/butch/butch/201.m3u8
-#EXTINF:-1,STAR SPORTS 4 HD
-http://ok2.se:8000/live/butch/butch/202.m3u8
-#EXTINF:-1,STAR SPORTS SELECT HD
-http://ok2.se:8000/live/butch/butch/4196.m3u8
 #EXTINF:-1,US | FOX SPORT 1 HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/6213.m3u8
 #EXTINF:-1,US | FOX SPORT 2 HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/6214.m3u8
-#EXTINF:-1,MIO|Stadium
-http://topiptv.net:5890/live/dream05/info50/3363.ts
-#EXTINF:-1,MIO|Stadium 102
-http://topiptv.net:5890/live/dream05/info50/3369.ts
-#EXTINF:-1,MIO|Stadium 103
-http://topiptv.net:5890/live/dream05/info50/3370.ts
-#EXTINF:-1,MIO|Stadium 104
-http://topiptv.net:5890/live/dream05/info50/3371.ts
-#EXTINF:-1,MIO|Stadium 105
-http://topiptv.net:5890/live/dream05/info50/3372.ts
-#EXTINF:-1,MIO|Stadium 106
-http://topiptv.net:5890/live/dream05/info50/3373.ts
-#EXTINF:-1,MIO|Stadium 107
-http://topiptv.net:5890/live/dream05/info50/3374.ts
+#EXTINF:-1,CTH Stadium 1
+http://pro213.com/live/Zaid/Zaid1/3283.m3u8
+#EXTINF:-1,CTH Stadium 2
+http://pro213.com/live/Zaid/Zaid1/3284.m3u8
+#EXTINF:-1,CTH Stadium 3
+http://pro213.com/live/Zaid/Zaid1/3285.m3u8
+#EXTINF:-1,CTH Stadium 4
+http://pro213.com/live/Zaid/Zaid1/3286.m3u8
+#EXTINF:-1,CTH Stadium 5
+http://pro213.com/live/Zaid/Zaid1/3287.m3u8
+#EXTINF:-1,CTH Stadium 6
+http://pro213.com/live/Zaid/Zaid1/3288.m3u8
 #EXTINF:-1,USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5130.m3u8
 #EXTINF:-1,USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)
