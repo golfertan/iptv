@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 
 #EXTINF:-1,DOC : ANIMAL PLANET
@@ -47,12 +47,20 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:-1,SPRT : ASSP1
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3876.m3u8
+#EXTINF:-1,SPRT : ASSP1 Link 2
+http://pro213.com/live/Zaid/Zaid1/2822.m3u8
 #EXTINF:-1,SPRT : ASSP2
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3877.m3u8
+#EXTINF:-1,SPRT : ASSP2 Link 2
+http://pro213.com/live/Zaid/Zaid1/2823.m3u8
 #EXTINF:-1,SPRT : ASSP3
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3878.m3u8
+#EXTINF:-1,SPRT : ASSP3 Link 2
+http://pro213.com/live/Zaid/Zaid1/2824.m3u8
 #EXTINF:-1,SPRT : ASSP4
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3879.m3u8
+#EXTINF:-1,SPRT : ASSP4 Link 2
+http://pro213.com/live/Zaid/Zaid1/2825.m3u8
 #EXTINF:-1,SPRT : FOX SPORTS
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8215.m3u8
 #EXTINF:0, SPRT : NBC GOLF
@@ -104,43 +112,43 @@ http://46.105.115.37:8000/live/iptv1790/179065287/122.m3u8
 #EXTINF:-1,BEIN SPORTS 1
 http://pro213.com/live/Zaid/Zaid1/4470.m3u8
 #EXTINF:-1,BEIN SPORTS 1 Link 2
-http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1177.ts
+http://pro213.com/live/Zaid/Zaid1/4486.m3u8
 #EXTINF:-1,BEIN SPORTS 2
 http://pro213.com/live/Zaid/Zaid1/4471.m3u8
 #EXTINF:-1,BEIN SPORTS 2 Link 2
-http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1178.ts
+http://pro213.com/live/Zaid/Zaid1/4487.m3u8
 #EXTINF:-1,BEIN SPORTS 3
 http://pro213.com/live/Zaid/Zaid1/4472.m3u8
 #EXTINF:-1,BEIN SPORTS 3 Link 2
-http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1179.ts
+http://pro213.com/live/Zaid/Zaid1/4488.m3u8
 #EXTINF:-1,BEIN SPORTS 4
 http://pro213.com/live/Zaid/Zaid1/4473.m3u8
 #EXTINF:-1,BEIN SPORTS 4 Link 2
-http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1180.ts
+http://pro213.com/live/Zaid/Zaid1/4489.m3u8
 #EXTINF:-1,BEIN SPORTS 5
 http://pro213.com/live/Zaid/Zaid1/4474.m3u8
 #EXTINF:-1,BEIN SPORTS 5 Link 2
-http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1181.ts
+http://pro213.com/live/Zaid/Zaid1/4490.m3u8
 #EXTINF:-1,BEIN SPORTS 6
 http://pro213.com/live/Zaid/Zaid1/4475.m3u8
 #EXTINF:-1,BEIN SPORTS 6 Link 2
-http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1182.ts
+http://pro213.com/live/Zaid/Zaid1/4491.m3u8
 #EXTINF:-1,BEIN SPORTS 7
 http://pro213.com/live/Zaid/Zaid1/4476.m3u8
 #EXTINF:-1,BEIN SPORTS 7 Link 2
-http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1183.ts
+http://pro213.com/live/Zaid/Zaid1/4492.m3u8
 #EXTINF:-1,BEIN SPORTS 8
 http://pro213.com/live/Zaid/Zaid1/4477.m3u8
 #EXTINF:-1,BEIN SPORTS 8 Link 2
-http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1184.ts
+http://pro213.com/live/Zaid/Zaid1/4493.m3u8
 #EXTINF:-1,BEIN SPORTS 9
 http://pro213.com/live/Zaid/Zaid1/4478.m3u8
 #EXTINF:-1,BEIN SPORTS 9 Link 2
-http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1185.ts
+http://pro213.com/live/Zaid/Zaid1/4494.m3u8
 #EXTINF:-1,BEIN SPORTS 10
 http://pro213.com/live/Zaid/Zaid1/4479.m3u8
 #EXTINF:-1,BEIN SPORTS 10 Link 2
-http://mediaiptv.xyz:8000/live/OwNeR003/OwNeR003/1186.ts
+http://pro213.com/live/Zaid/Zaid1/4495.m3u8
 #EXTINF:-1,STAR SPORTS 1 HD
 http://ok2.se:8000/live/butch/butch/199.m3u8
 #EXTINF:-1,STAR SPORTS 2 HD
