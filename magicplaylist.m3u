@@ -1,24 +1,23 @@
 #EXTM3U
 
 
+
 #EXTINF:-1,DOC : ANIMAL PLANET
-http://pro213.com/live/Zaid/Zaid1/1800.m3u8
+http://s2.iptvapi.com:8081/ANIUK/index.m3u8
 #EXTINF:-1,DOC : DISCOVERY
-http://pro213.com/live/Zaid/Zaid1/2376.m3u8
+http://s11.iptvapi.com:8081/DIS1/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
 #EXTINF:-1,DOC : DISCOVERY CI
-http://pro213.com/live/Zaid/Zaid1/3712.m3u8
+http://s2.iptvapi.com:8081/Crime/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
 #EXTINF:-1,DOC : DISCOVERY HISTORY
-http://pro213.com/live/Zaid/Zaid1/2375.m3u8
+http://s10.iptvapi.com:8081/DISHist/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
 #EXTINF:-1,DOC : DISCOVERY SCIENCE
-http://pro213.com/live/Zaid/Zaid1/3729.m3u8
+http://s2.iptvapi.com:8081/DISS/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
 #EXTINF:-1,DOC : DISCOVERY TURBO
-http://topiptv.net:5890/live/dream05/info50/1106.ts
-#EXTINF:-1,DOC : DISCOVERY WORLD
-http://topiptv.net:5890/live/dream05/info50/1260.ts
+http://s11.iptvapi.com:8081/DISTurbo/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
 #EXTINF:-1,DOC : NAT GEO
-http://pro213.com/live/Zaid/Zaid1/2010.m3u8
+http://s11.iptvapi.com:8081/HDNATGEO/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
 #EXTINF:-1,DOC : NAT GEO WILD
-http://pro213.com/live/Zaid/Zaid1/2373.m3u8
+http://s2.iptvapi.com:8081/NATGEOWUK/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
 
 
 
