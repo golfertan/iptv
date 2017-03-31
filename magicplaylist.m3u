@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:-1,DOC : ANIMAL PLANET
-http://cableking-iptv.com:8000/live/decca/decca/18064.ts
+#EXTINF:-1 tvg-id="DOC : ANIMAL_PLANET" tvg-link="http://193.164.133.64/guide.xmltv" tvg-name="DOC : ANIMAL PLANET" tvg-logo="http://radiokafic.com/iptv-slike/animal.png" group-title="Dokumentarni",ANIMAL PLANET - ANIMAL_PLANET
+http://iptv.radiokafic.com:80/live?channelId=108&uid=23186&deviceMac=00:1a:79:39:27:6c
 #EXTINF:-1,DOC : DISCOVERY CHANNEL
 http://cableking-iptv.com:8000/live/decca/decca/18054.ts
 #EXTINF:-1,DOC : DISCOVERY CI
