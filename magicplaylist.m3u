@@ -3,21 +3,23 @@
 
 
 #EXTINF:-1,DOC : ANIMAL PLANET
-http://s2.iptvapi.com:8081/ANIUK/index.m3u8
-#EXTINF:-1,DOC : DISCOVERY
-http://s11.iptvapi.com:8081/DIS1/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
+http://cableking-iptv.com:8000/live/decca/decca/18064.ts
+#EXTINF:-1,DOC : DISCOVERY CHANNEL
+http://cableking-iptv.com:8000/live/decca/decca/18054.ts
 #EXTINF:-1,DOC : DISCOVERY CI
-http://s2.iptvapi.com:8081/Crime/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
+http://cableking-iptv.com:8000/live/decca/decca/18059.ts
 #EXTINF:-1,DOC : DISCOVERY HISTORY
-http://s10.iptvapi.com:8081/DISHist/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
+http://cableking-iptv.com:8000/live/decca/decca/18057.ts
 #EXTINF:-1,DOC : DISCOVERY SCIENCE
-http://s2.iptvapi.com:8081/DISS/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
-#EXTINF:-1,DOC : DISCOVERY TURBO
-http://s11.iptvapi.com:8081/DISTurbo/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
-#EXTINF:-1,DOC : NAT GEO
-http://s11.iptvapi.com:8081/HDNATGEO/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
+http://cableking-iptv.com:8000/live/decca/decca/18056.ts
+#EXTINF:-1,DOC : DISCCOVERY TURBO
+http://cableking-iptv.com:8000/live/decca/decca/18058.ts
+#EXTINF:-1,DOC : NATIONAL GEOGRAPHIC
+http://cableking-iptv.com:8000/live/decca/decca/18061.ts
+#EXTINF:-1,DOC : NAT GEO GRAPHIC
+http://cableking-iptv.com:8000/live/decca/decca/18063.ts
 #EXTINF:-1,DOC : NAT GEO WILD
-http://s2.iptvapi.com:8081/NATGEOWUK/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
+http://cableking-iptv.com:8000/live/decca/decca/18060.ts
 
 
 
