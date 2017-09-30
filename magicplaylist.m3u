@@ -43,11 +43,11 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1,SPRT : BTSport ESPN
 http://185.53.163.205:2507
 #EXTINF:-1,SPRT : BTSport1
-http://wowza2.mysoltv.com:1992/BT_Sports_1_HD/tracks-v1a1/index.m3u8
+http://185.53.163.205:2700
 #EXTINF:-1,SPRT : BTSport2
-http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/tracks-v1a1/index.m3u8
+http://185.53.163.205:2506
 #EXTINF:-1,SPRT : BTSport3
-http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/tracks-v1a1/index.m3u8
+http://185.53.163.205:2701
 #EXTINF:-1,SPRT : BTSport Extra 1
 http://185.53.163.205:2707
 #EXTINF:-1,SPRT : BTSport Extra 2
