@@ -3,23 +3,13 @@
 
 
 #EXTINF:-1,DOC : ANIMAL PLANET
-http://s2.iptvapi.com:8081/ANIUK/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
-#EXTINF:-1,DOC : DISCOVERY CHANNEL
-http://s11.iptvapi.com:8081/DIS1/index.m3u8?token=_CT1vkAv5OmGTtkyquaT4g
-#EXTINF:-1,DOC : DISCOVERY CI
-http://cableking-iptv.com:8000/live/decca/decca/18059.ts
-#EXTINF:-1,DOC : DISCOVERY HISTORY
-http://cableking-iptv.com:8000/live/decca/decca/18057.ts
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,DOC : DISCOVERY INVESTIGATION
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
 #EXTINF:-1,DOC : DISCOVERY SCIENCE
-http://cableking-iptv.com:8000/live/decca/decca/18056.ts
-#EXTINF:-1,DOC : DISCCOVERY TURBO
-http://cableking-iptv.com:8000/live/decca/decca/18058.ts
-#EXTINF:-1,DOC : NATIONAL GEOGRAPHIC
-http://cableking-iptv.com:8000/live/decca/decca/18061.ts
-#EXTINF:-1,DOC : NAT GEO GRAPHIC
-http://cableking-iptv.com:8000/live/decca/decca/18063.ts
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,DOC : NAT GEO WILD
-http://cableking-iptv.com:8000/live/decca/decca/18060.ts
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
 
 
 
@@ -27,156 +17,56 @@ http://cableking-iptv.com:8000/live/decca/decca/18060.ts
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:-1,NEWS : AL JAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1,NEWS : BBC NEWS
-http://pro213.com/live/Zaid/Zaid1/3715.m3u8
-#EXTINF:0,NEWS : BLOOMBERG ASIA
-http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
-#EXTINF:-1,NEWS : BLOOMBERG
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,NEWS : BBC WORLD NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0,NEWS : BLOOMBERG TV ASIA
+http://live-bloomberg-ap-north.global.ssl.fastly.net/ap/AP1000kb_live.m3u8
+#EXTINF:-1,NEWS : BLOOMBERG TV EUROPE
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0,NEWS : BLOOMBERG TV US
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
 #EXTINF:-1,NEWS : CBS NEWS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,NEWS : CHANNEL NEWS ASIA
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
 #EXTINF:-1,NEWS : CNN
 http://cnn-i.akamaihd.net/hls/live/253954/dotcomlive_2/master.m3u8
 #EXTINF:-1,NEWS : FOX NEWS
 http://fnurtmp-f.akamaihd.net/i/02LIVE_1@81834/master.m3u8
 #EXTINF:-1,NEWS : RUSSIA TODAY
-http://rt-lh.akamaihd.net/i/ch_05@325609/master.m3u8
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
 #EXTINF:-1,NEWS : SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 
 
-#EXTINF:-1,SPRT : ASSP1
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3876.m3u8
-#EXTINF:-1,SPRT : ASSP1 Link 2
-http://pro213.com/live/Zaid/Zaid1/3131.m3u8
-#EXTINF:-1,SPRT : ASSP2
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3877.m3u8
-#EXTINF:-1,SPRT : ASSP2 Link 2
-http://pro213.com/live/Zaid/Zaid1/3132.m3u8
-#EXTINF:-1,SPRT : ASSP3
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3878.m3u8
-#EXTINF:-1,SPRT : ASSP3 Link 2
-http://pro213.com/live/Zaid/Zaid1/3133.m3u8
-#EXTINF:-1,SPRT : ASSP4
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3879.m3u8
-#EXTINF:-1,SPRT : ASSP4 Link 2
-http://pro213.com/live/Zaid/Zaid1/3134.m3u8
-#EXTINF:-1,SPRT : FOX SPORTS
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8215.m3u8
-#EXTINF:0, SPRT : NBC GOLF
+#EXTINF:-1,SPRT : BTSport ESPN
+http://185.53.163.205:2507
+#EXTINF:-1,SPRT : BTSport1
+http://wowza2.mysoltv.com:1992/BT_Sports_1_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,SPRT : BTSport2
+http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,SPRT : BTSport3
+http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,SPRT : BTSport Extra 1
+http://185.53.163.205:2707
+#EXTINF:-1,SPRT : BTSport Extra 2
+http://185.53.163.205:2500
+#EXTINF:-1,SPRT : BTSport Extra 3
+http://185.53.163.205:2501
+#EXTINF:-1,SPRT : BTSport Extra 4
+http://185.53.163.205:2502
+#EXTINF:-1,SPRT : BTSport Extra 5
+http://185.53.163.205:2503
+#EXTINF:-1,SPRT : BTSport Extra 6
+http://185.53.163.205:2504
+#EXTINF:0,SPRT : JAPAN GOLF NETWORK
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
+#EXTINF:0,SPRT : MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0,SPRT : NBA TV
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:0,SPRT : NBC GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,SPRT : NBA TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/6829.m3u8
-#EXTINF:-1,SPRT : NBC SPORT
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/6817.m3u8
-#EXTINF:-1,SPRT : NFL
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/6812.m3u8
-#EXTINF:-1,SPRT : SKY SPORTS NEWS
-http://pro213.com/live/Zaid/Zaid1/3711.m3u8
-#EXTINF:-1,SPRT : SKY SPORTS NEWS Link 2
-http://sutverduz.com:8080/live/TJxoizHP15/RbkDB1snmE/1087.ts
-
-
-#EXTINF:-1,UK | BTSportESPN
-http://ok2.se:8000/live/butch/butch/233.m3u8
-#EXTINF:-1,UK | BTSport1
-http://pro213.com/live/Zaid/Zaid1/1795.m3u8
-#EXTINF:-1,UK | BTSport2
-http://pro213.com/live/Zaid/Zaid1/1796.m3u8
-#EXTINF:-1,UK | BTSport3
-http://topiptv.net:5890/live/dream05/info50/3130.ts
-#EXTINF:-1,UK | SkySport1
-http://pro213.com/live/Zaid/Zaid1/2006.m3u8
-#EXTINF:-1,UK | SkySport1 Link 2
-http://pro213.com/live/Zaid/Zaid1/3193.m3u8
-#EXTINF:-1,UK | SkySport2
-http://pro213.com/live/Zaid/Zaid1/2007.m3u8
-#EXTINF:-1,UK | SkySport2 Link 2
-http://pro213.com/live/Zaid/Zaid1/3194.m3u8
-#EXTINF:-1,UK | SkySport3
-http://pro213.com/live/Zaid/Zaid1/2011.m3u8
-#EXTINF:-1,UK | SkySport3 Link 2
-http://pro213.com/live/Zaid/Zaid1/3195.m3u8
-#EXTINF:-1,UK | SkySport4
-http://pro213.com/live/Zaid/Zaid1/2012.m3u8
-#EXTINF:-1,UK | SkySport4 Link 2
-http://pro213.com/live/Zaid/Zaid1/3196.m3u8
-#EXTINF:-1,UK | SkySport5
-http://pro213.com/live/Zaid/Zaid1/2451.m3u8
-#EXTINF:-1,UK | SkySport5 Link 2
-http://pro213.com/live/Zaid/Zaid1/3197.m3u8
-#EXTINF:-1,UK | SkySportF1
-http://pro213.com/live/Zaid/Zaid1/2502.m3u8
-#EXTINF:-1,UK | SkySportF1 Link 2
-http://46.105.115.37:8000/live/iptv1790/179065287/122.m3u8
-#EXTINF:-1,BEIN SPORTS 1
-http://pro213.com/live/Zaid/Zaid1/4470.m3u8
-#EXTINF:-1,BEIN SPORTS 1 Link 2
-http://pro213.com/live/Zaid/Zaid1/4486.m3u8
-#EXTINF:-1,BEIN SPORTS 2
-http://pro213.com/live/Zaid/Zaid1/4471.m3u8
-#EXTINF:-1,BEIN SPORTS 2 Link 2
-http://pro213.com/live/Zaid/Zaid1/4487.m3u8
-#EXTINF:-1,BEIN SPORTS 3
-http://pro213.com/live/Zaid/Zaid1/4472.m3u8
-#EXTINF:-1,BEIN SPORTS 3 Link 2
-http://pro213.com/live/Zaid/Zaid1/4488.m3u8
-#EXTINF:-1,BEIN SPORTS 4
-http://pro213.com/live/Zaid/Zaid1/4473.m3u8
-#EXTINF:-1,BEIN SPORTS 4 Link 2
-http://pro213.com/live/Zaid/Zaid1/4489.m3u8
-#EXTINF:-1,BEIN SPORTS 5
-http://pro213.com/live/Zaid/Zaid1/4474.m3u8
-#EXTINF:-1,BEIN SPORTS 5 Link 2
-http://pro213.com/live/Zaid/Zaid1/4490.m3u8
-#EXTINF:-1,BEIN SPORTS 6
-http://pro213.com/live/Zaid/Zaid1/4475.m3u8
-#EXTINF:-1,BEIN SPORTS 6 Link 2
-http://pro213.com/live/Zaid/Zaid1/4491.m3u8
-#EXTINF:-1,BEIN SPORTS 7
-http://pro213.com/live/Zaid/Zaid1/4476.m3u8
-#EXTINF:-1,BEIN SPORTS 7 Link 2
-http://pro213.com/live/Zaid/Zaid1/4492.m3u8
-#EXTINF:-1,BEIN SPORTS 8
-http://pro213.com/live/Zaid/Zaid1/4477.m3u8
-#EXTINF:-1,BEIN SPORTS 8 Link 2
-http://pro213.com/live/Zaid/Zaid1/4493.m3u8
-#EXTINF:-1,BEIN SPORTS 9
-http://pro213.com/live/Zaid/Zaid1/4478.m3u8
-#EXTINF:-1,BEIN SPORTS 9 Link 2
-http://pro213.com/live/Zaid/Zaid1/4494.m3u8
-#EXTINF:-1,BEIN SPORTS 10
-http://pro213.com/live/Zaid/Zaid1/4479.m3u8
-#EXTINF:-1,BEIN SPORTS 10 Link 2
-http://pro213.com/live/Zaid/Zaid1/4495.m3u8
-#EXTINF:-1,US | FOX SPORT 1 HD
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/6213.m3u8
-#EXTINF:-1,US | FOX SPORT 2 HD
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/6214.m3u8
-#EXTINF:-1,CTH Stadium 1
-http://pro213.com/live/Zaid/Zaid1/3283.m3u8
-#EXTINF:-1,CTH Stadium 2
-http://pro213.com/live/Zaid/Zaid1/3284.m3u8
-#EXTINF:-1,CTH Stadium 3
-http://pro213.com/live/Zaid/Zaid1/3285.m3u8
-#EXTINF:-1,CTH Stadium 4
-http://pro213.com/live/Zaid/Zaid1/3286.m3u8
-#EXTINF:-1,CTH Stadium 5
-http://pro213.com/live/Zaid/Zaid1/3287.m3u8
-#EXTINF:-1,CTH Stadium 6
-http://pro213.com/live/Zaid/Zaid1/3288.m3u8
-#EXTINF:-1,USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5130.m3u8
-#EXTINF:-1,USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5129.m3u8
-#EXTINF:-1,USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5128.m3u8
-#EXTINF:-1,USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5127.m3u8
-#EXTINF:-1,USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5126.m3u8
-#EXTINF:-1,USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5125.m3u8
-#EXTINF:-1,USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5124.m3u8
+#EXTINF:-1,SPRT : NFL NOW
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
