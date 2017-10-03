@@ -4,6 +4,8 @@
 
 #EXTINF:-1,DOC : ANIMAL PLANET
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,DOC : DISCOVERY CHANNEL
+http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/158.ts
 #EXTINF:-1,DOC : DISCOVERY INVESTIGATION
 http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
 #EXTINF:-1,DOC : DISCOVERY SCIENCE
@@ -66,3 +68,15 @@ http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,SPRT : NFL NOW
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,SPRT : SKYSPORTS 1
+http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/76.ts
+#EXTINF:-1,SPRT : SKYSPORTS 2
+http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/77.ts
+#EXTINF:-1,SPRT : SKYSPORTS 3
+http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/78.ts
+#EXTINF:-1,SPRT : SKYSPORTS 4
+http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/79.ts
+#EXTINF:-1,SPRT : SKYSPORTS 5
+http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/80.ts
+#EXTINF:-1,SPRT : SKYSPORTS F1
+http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/75.ts
