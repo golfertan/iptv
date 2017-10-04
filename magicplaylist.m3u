@@ -79,4 +79,9 @@ http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/79.ts
 #EXTINF:-1,SPRT : SKYSPORTS 5
 http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/80.ts
 #EXTINF:-1,SPRT : SKYSPORTS F1
-http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/75.ts
+http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1507081189&t=.m3u8
+#EXTINF:-1,SPRT : SKYSPORTS GOLF
+http://iptv4u.club/site/freeiptv?channel=skysportsgolf&e=1507081189&t=.m3u8
+#EXTINF:-1,SPRT : SKYSPORTS PREMIER LEAGUE
+http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1507081189&t=.m3u8
+
