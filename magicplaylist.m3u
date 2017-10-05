@@ -65,7 +65,7 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 #EXTINF:0,SPRT : NBA TV
 http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
 #EXTINF:0,SPRT : NBC GOLF
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/315.ts
 #EXTINF:-1,SPRT : NFL NOW
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1,SPRT : SKYSPORTS 1
