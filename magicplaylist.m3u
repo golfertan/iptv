@@ -88,15 +88,9 @@ http://163.172.89.139:1795/live/dogus1/dogus1/18933.ts
 http://163.172.89.139:1795/live/dogus1/dogus1/18931.ts
 #EXTINF:-1,SKY SPORT NEWS HD
 http://195.154.107.246:1155/live/arous/arous1/2944.ts
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-http://ip.sltv.be:8000/live/YDCdfjs5Ld/nYoUXfAIOA/14986.ts
-#EXTINF:-1,(UK) SKY SPORT CRICKET HD
-http://ip.sltv.be:8000/live/YDCdfjs5Ld/nYoUXfAIOA/14984.ts
-#EXTINF:-1,(UK) SKY SPORTS ACTION HD
-http://ip.sltv.be:8000/live/YDCdfjs5Ld/nYoUXfAIOA/14982.ts
-#EXTINF:-1,(UK) SKY SPORTS GOLF HD
-http://ip.sltv.be:8000/live/YDCdfjs5Ld/nYoUXfAIOA/1311.ts
-#EXTINF:-1,Sky Sport Golf FHD
-http://supervip.mine.nu:80/live/sVrmoO4qGH/erqV2145Y/25665.ts
-#EXTINF:-1,(UK) SKY SPORTS PREMIERE LEAGUE HD
-http://ip.sltv.be:8000/live/YDCdfjs5Ld/nYoUXfAIOA/14979.ts
+#EXTINF:0, SUPERSPORT 1
+http://erol74y7la.servep2p.com/mHyifxGiDv/assp1/playlist.m3u8
+#EXTINF:0, SUPERSPORT 2
+http://erol74y7la.servep2p.com/mHyifxGiDv/assp2/playlist.m3u8
+#EXTINF:0, SUPERSPORT 3
+http://erol74y7la.servep2p.com/mHyifxGiDv/assp3/playlist.m3u8
