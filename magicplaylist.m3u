@@ -1,87 +1,102 @@
 #EXTM3U
 
 
+#EXTINF:0,ABC HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11568.m3u8
+#EXTINF:-1,BBC World News
+http://192.162.139.56:8000/live/erol01/01erol/357.ts
+#EXTINF:-1,Bloomberg HD
+http://193.200.164.138:6204/live/hasan/123/8584.ts
+#EXTINF:-1,CBS NEWS HD
+http://tv.megaseedbox.com:8000/live/sabrina1/sabrina1/559.ts
+#EXTINF:-1,CNN
+http://tv.megaseedbox.com:8000/live/sabrina1/sabrina1/1589.ts
+#EXTINF:-1,Sky News HD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/5399.ts
 
-#EXTINF:-1,DOC : ANIMAL PLANET
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,DOC : DISCOVERY CHANNEL
-http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/158.ts
-#EXTINF:-1,DOC : DISCOVERY INVESTIGATION
-http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
-#EXTINF:-1,DOC : DISCOVERY SCIENCE
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,DOC : NAT GEO WILD
-http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
-
-
-
-#EXTINF:-1,NEWS : ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:-1,NEWS : AL JAZEERA
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1,NEWS : BBC WORLD NEWS
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:0,NEWS : BLOOMBERG TV
-http://live-bloomberg-ap-north.global.ssl.fastly.net/ap/AP1000kb_live.m3u8
-#EXTINF:-1,NEWS : CBS NEWS
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,NEWS : CHANNEL NEWS ASIA
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:-1,NEWS : CNN
-http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/306.ts
-#EXTINF:-1,NEWS : FOX NEWS
-http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/291.ts
-#EXTINF:-1,NEWS : RUSSIA TODAY
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
-#EXTINF:-1,NEWS : SKY NEWS
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
-
-
-#EXTINF:-1,SPRT : BTSport ESPN
-http://185.53.163.205:2507
-#EXTINF:-1,SPRT : BTSport1
-http://185.53.163.205:2700
-#EXTINF:-1,SPRT : BTSport2
-http://185.53.163.205:2506
-#EXTINF:-1,SPRT : BTSport3
-http://185.53.163.205:2701
-#EXTINF:-1,SPRT : BTSport Extra 1
-http://185.53.163.205:2707
-#EXTINF:-1,SPRT : BTSport Extra 2
-http://185.53.163.205:2500
-#EXTINF:-1,SPRT : BTSport Extra 3
-http://185.53.163.205:2501
-#EXTINF:-1,SPRT : BTSport Extra 4
-http://185.53.163.205:2502
-#EXTINF:-1,SPRT : BTSport Extra 5
-http://185.53.163.205:2503
-#EXTINF:-1,SPRT : BTSport Extra 6
-http://185.53.163.205:2504
-#EXTINF:0,SPRT : JAPAN GOLF NETWORK
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
-#EXTINF:0,SPRT : MLB NETWORK
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0,SPRT : NBA TV
-http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
-#EXTINF:0,SPRT : NBC GOLF
-http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/315.ts
-#EXTINF:-1,SPRT : NFL NOW
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1,SPRT : SKYSPORTS 1
-http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/76.ts
-#EXTINF:-1,SPRT : SKYSPORTS 2
-http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/77.ts
-#EXTINF:-1,SPRT : SKYSPORTS 3
-http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/78.ts
-#EXTINF:-1,SPRT : SKYSPORTS 4
-http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/79.ts
-#EXTINF:-1,SPRT : SKYSPORTS 5
-http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-03-10/3zdnBAisx4/80.ts
-#EXTINF:-1,SPRT : SKYSPORTS F1
-http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1507081189&t=.m3u8
-#EXTINF:-1,SPRT : SKYSPORTS GOLF
-http://iptv4u.club/site/freeiptv?channel=skysportsgolf&e=1507081189&t=.m3u8
-#EXTINF:-1,SPRT : SKYSPORTS PREMIER LEAGUE
-http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1507081189&t=.m3u8
-
+#EXTINF:-1,AFN Sports 1 HD
+http://54.36.168.134:80/live/mtg/2406/4960.ts
+#EXTINF:-1,beIN Sports USA HD
+http://54.36.168.134:80/live/mtg/2406/4959.ts
+#EXTINF:0,BT SPORT 1 HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/36515.m3u8
+#EXTINF:-1,BT SPORT 1 HD
+http://54.36.168.134:80/live/mtg/2406/4974.ts
+#EXTINF:-1,BT SPORT 2 HD
+http://54.36.168.134:80/live/mtg/2406/4975.ts
+#EXTINF:-1,BT Sport 3 HD
+http://193.200.164.138:6204/live/hasan/123/10166.ts
+#EXTINF:-1,CBS Sports HD
+http://54.36.168.134:80/live/mtg/2406/4973.ts
+#EXTINF:-1,ESPN
+http://54.36.168.134:80/live/mtg/2406/4977.ts
+#EXTINF:-1,ESPN FHD
+http://54.36.168.134:80/live/mtg/2406/4964.ts
+#EXTINF:-1,ESPN 2 HD
+http://tv.megaseedbox.com:8000/live/sabrina1/sabrina1/587.ts
+#EXTINF:-1,Eurosport 1 HD
+http://193.200.164.138:6204/live/hasan/123/8560.ts
+#EXTINF:-1,Eurosport 2 HD
+http://193.200.164.138:6204/live/hasan/123/8559.ts
+#EXTINF:-1,FOX SPORTS 1 FHD
+http://54.36.168.134:80/live/mtg/2406/4965.ts
+#EXTINF:0,FOX SPORT 2 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3340.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://tv.megaseedbox.com:8000/live/sabrina1/sabrina1/774.ts
+#EXTINF:-1,NBCSN FHD
+http://54.36.168.134:80/live/mtg/2406/4969.ts
+#EXTINF:-1,PREMIER LEAGUE HD
+http://54.36.168.134:80/live/mtg/2406/4980.ts
+#EXTINF:-1,SPORTS F1
+http://54.36.168.134:80/live/mtg/2406/4976.ts
+#EXTINF:-1,BeIN1.HD
+http://5.226.139.5:6969/live/mmark/mmark/18393.ts
+#EXTINF:-1,BeIN2.HD
+http://5.226.139.5:6969/live/mmark/mmark/18394.ts
+#EXTINF:-1,BeIN3.HD
+http://5.226.139.5:6969/live/mmark/mmark/18395.ts
+#EXTINF:-1,BeIN4.HD
+http://5.226.139.5:6969/live/mmark/mmark/18396.ts
+#EXTINF:-1,BeIN5.HD
+http://5.226.139.5:6969/live/mmark/mmark/18397.ts
+#EXTINF:-1,BeIN6.HD
+http://5.226.139.5:6969/live/mmark/mmark/18398.ts
+#EXTINF:-1,BeIN7.HD
+http://5.226.139.5:6969/live/mmark/mmark/18399.ts
+#EXTINF:-1,BeIN8.HD
+http://5.226.139.5:6969/live/mmark/mmark/18400.ts
+#EXTINF:-1,BeIN9.HD
+http://5.226.139.5:6969/live/mmark/mmark/18401.ts
+#EXTINF:-1,BeIN10.HD
+http://5.226.139.5:6969/live/mmark/mmark/18402.ts
+#EXTINF:0,BEIN10.HD
+http://79.124.49.242:1958/live/osman9/9osman/983.m3u8
+#EXTINF:0,BEIN11.HD
+http://79.124.49.242:1958/live/osman9/9osman/982.m3u8
+#EXTINF:-1,SKY SPORT 1 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/18939.ts
+#EXTINF:-1,SKY SPORT 2 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/18937.ts
+#EXTINF:-1,SKY SPORT 3 HD
+http://195.154.107.246:1155/live/arous/arous1/1018.ts
+#EXTINF:-1,SKY SPORT 4 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/18935.ts
+#EXTINF:-1,SKY SPORT 5 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/18933.ts
+#EXTINF:-1,SKY SPORT F1 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/18931.ts
+#EXTINF:-1,SKY SPORT NEWS HD
+http://195.154.107.246:1155/live/arous/arous1/2944.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD
+http://ip.sltv.be:8000/live/YDCdfjs5Ld/nYoUXfAIOA/14986.ts
+#EXTINF:-1,(UK) SKY SPORT CRICKET HD
+http://ip.sltv.be:8000/live/YDCdfjs5Ld/nYoUXfAIOA/14984.ts
+#EXTINF:-1,(UK) SKY SPORTS ACTION HD
+http://ip.sltv.be:8000/live/YDCdfjs5Ld/nYoUXfAIOA/14982.ts
+#EXTINF:-1,(UK) SKY SPORTS GOLF HD
+http://ip.sltv.be:8000/live/YDCdfjs5Ld/nYoUXfAIOA/1311.ts
+#EXTINF:-1,Sky Sport Golf FHD
+http://supervip.mine.nu:80/live/sVrmoO4qGH/erqV2145Y/25665.ts
+#EXTINF:-1,(UK) SKY SPORTS PREMIERE LEAGUE HD
+http://ip.sltv.be:8000/live/YDCdfjs5Ld/nYoUXfAIOA/14979.ts
