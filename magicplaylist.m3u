@@ -88,9 +88,23 @@ http://163.172.89.139:1795/live/dogus1/dogus1/18933.ts
 http://163.172.89.139:1795/live/dogus1/dogus1/18931.ts
 #EXTINF:-1,SKY SPORT NEWS HD
 http://195.154.107.246:1155/live/arous/arous1/2944.ts
-#EXTINF:0, SUPERSPORT 1
-http://erol74y7la.servep2p.com/mHyifxGiDv/assp1/playlist.m3u8
-#EXTINF:0, SUPERSPORT 2
-http://erol74y7la.servep2p.com/mHyifxGiDv/assp2/playlist.m3u8
-#EXTINF:0, SUPERSPORT 3
-http://erol74y7la.servep2p.com/mHyifxGiDv/assp3/playlist.m3u8
+#EXTINF:-1,Astro SuperSport 1
+http://portal.geniptv.com:8080/live/TP3IJEu3z2/z4Q9nAyKwY/1366.ts
+#EXTINF:-1,Astro SuperSport 2
+http://portal.geniptv.com:8080/live/TP3IJEu3z2/z4Q9nAyKwY/1365.ts
+#EXTINF:-1,Astro SuperSport 3
+http://portal.geniptv.com:8080/live/TP3IJEu3z2/z4Q9nAyKwY/1364.ts
+#EXTINF:-1,Astro SuperSport 4
+http://portal.geniptv.com:8080/live/TP3IJEu3z2/z4Q9nAyKwY/1161.ts
+#EXTINF:-1,SkyNet Sports 1
+http://portal.geniptv.com:8080/live/TP3IJEu3z2/z4Q9nAyKwY/1160.ts
+#EXTINF:-1,SkyNet Sports 2
+http://portal.geniptv.com:8080/live/TP3IJEu3z2/z4Q9nAyKwY/1158.ts
+#EXTINF:-1,SkyNet Sports 3
+http://portal.geniptv.com:8080/live/TP3IJEu3z2/z4Q9nAyKwY/1157.ts
+#EXTINF:-1,SkyNet Sports 4
+http://portal.geniptv.com:8080/live/TP3IJEu3z2/z4Q9nAyKwY/1156.ts
+#EXTINF:-1,SkyNet Sports 5
+http://portal.geniptv.com:8080/live/TP3IJEu3z2/z4Q9nAyKwY/1155.ts
+#EXTINF:-1,SkyNet Sports 6
+http://portal.geniptv.com:8080/live/TP3IJEu3z2/z4Q9nAyKwY/1154.ts
